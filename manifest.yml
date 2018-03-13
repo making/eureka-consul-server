@@ -1,0 +1,5 @@
+applications:
+- name: eureka-consul
+  instances: 1
+  memory: 1G
+  path: target/eureka-consul-server-0.0.1-SNAPSHOT.jar
